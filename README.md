@@ -99,14 +99,6 @@ Meu nome é [Matheus José](https://www.linkedin.com/in/matheus-jos%C3%A9-2468a3
 
 ### Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Estatísticas" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Matheusjose1&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
 
 <img 
       align="left" 
